@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ftp_download">FTP_DOWNLOAD</string>
+</resources>
